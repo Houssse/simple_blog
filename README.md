@@ -1,3 +1,3 @@
 Учебный проект на стадии разработки. 
 
-Результат можно увидеть тут https://mighty-everglades-68213.herokuapp.com/
+Результат можно увидеть тут https://sheltered-sands-68703.herokuapp.com/
